@@ -27,9 +27,6 @@
 
 // using linear search
 
-import java.util.*;
-import java.io.*;
-
 public class GetMinMax{
     static class Pair{
         int min;

@@ -1,7 +1,7 @@
 package Random_easy;
 
 public class isPalindrome {
-    public boolean isPalindrome(int x) {
+    public boolean isPali(int x) {
         if(x<0){
             return false;
         }
